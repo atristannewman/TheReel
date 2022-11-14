@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		6A3524DB2922C3BA008AF87B /* Apollo in Frameworks */ = {isa = PBXBuildFile; productRef = 6A3524DA2922C3BA008AF87B /* Apollo */; };
 		6A3524DF2922C48B008AF87B /* InflectorKit in Frameworks */ = {isa = PBXBuildFile; productRef = 6A3524DE2922C48B008AF87B /* InflectorKit */; };
+		6A3524E12922F816008AF87B /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 6A3524E02922F816008AF87B /* README.md */; };
 		6A370285291B9CFE00E8D5F9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A370284291B9CFE00E8D5F9 /* AppDelegate.swift */; };
 		6A370289291B9CFE00E8D5F9 /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A370288291B9CFE00E8D5F9 /* HomeViewController.swift */; };
 		6A37028E291B9D0000E8D5F9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6A37028D291B9D0000E8D5F9 /* Assets.xcassets */; };
@@ -41,6 +42,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		6A3524E02922F816008AF87B /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		6A370281291B9CFE00E8D5F9 /* TheReel.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TheReel.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6A370284291B9CFE00E8D5F9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		6A370288291B9CFE00E8D5F9 /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
@@ -116,6 +118,7 @@
 				6A370284291B9CFE00E8D5F9 /* AppDelegate.swift */,
 				6A37028D291B9D0000E8D5F9 /* Assets.xcassets */,
 				6A370292291B9D0000E8D5F9 /* Info.plist */,
+				6A3524E02922F816008AF87B /* README.md */,
 			);
 			path = TheReel;
 			sourceTree = "<group>";
@@ -265,6 +268,7 @@
 			files = (
 				6AD601432922ADD900EF22D8 /* OFL.txt in Resources */,
 				6AD601402922ADD900EF22D8 /* Roboto-Bold.ttf in Resources */,
+				6A3524E12922F816008AF87B /* README.md in Resources */,
 				6AD6013E2922ADD900EF22D8 /* LICENSE.txt in Resources */,
 				6AD6013B2922ADD900EF22D8 /* Roboto-BoldItalic.ttf in Resources */,
 				6AD601382922ADD900EF22D8 /* Roboto-Regular.ttf in Resources */,
